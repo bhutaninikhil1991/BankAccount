@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Token",
+            "request": "launch",
+            "mainClass": "Token",
+            "projectName": "VS Projects_7b9e6f78"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": "VS Projects_7b9e6f78"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntArray",
+            "request": "launch",
+            "mainClass": "IntArray",
+            "projectName": "VS Projects_7b9e6f78"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Crypto",
+            "request": "launch",
+            "mainClass": "Crypto",
+            "projectName": "VS Projects_7b9e6f78"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountChars",
+            "request": "launch",
+            "mainClass": "CountChars"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
